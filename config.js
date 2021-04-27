@@ -1,5 +1,5 @@
 module.exports = ({
-	token: "bot-token-here",
+	token: "NjY5Nzg0ODg1NDA1Mjg2NDIy.Xik3yA.HfavyU_7ak9zuQCkoI0mmAVQtzQ",
 	prefix1: "$getServerVar[prefix]",
 	prefix2: "<@bot-user-id>",
 	prefix3: "<@!bot-user-id>",
